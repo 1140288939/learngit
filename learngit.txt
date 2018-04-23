@@ -24,4 +24,4 @@ JpQV8pjWk1Aj831xC7bEkXUuLVZRgAcyJWZcistIhlgpvp2NG5URDTGr7cWbPpSs
 QjSVAoGBAK3BOoX+k59cuO4rMKNXpAJghyR0dbFQrwP3rP83msTwJUp3suz/ve1z
 E1wLomwH1i7fV+qIDDPqWDxnk5L+13aipn6YNZ1ex+KR63ciUXGWwSzikaVVDagX
 POSq9ZzcGD9A+mfjjgVp+vI8X+fZJD60m/kOY7tDAXuGw7Bs2OYH
------END RSA PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----Creating a new branch is quick AND simple
